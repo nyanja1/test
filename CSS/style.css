@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1717966313670-a42f6908be92?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1OHx8fGVufDB8fHx8fA%3D%3D);
+}
+h1{
+    text-align: right;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large
+}
+h2{
+    text-align: right;
+    color: blue;
+    font-size: smaller
+
+      
+
+}
+h3{
+    text-align: center;
+    font-size: larger;
+    position: absolute;
+    bottom: 350px;
+    right: 750px;
+    font-size: 40px;
+
+}
+
+
+p{
+    color: brown;
+
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    bottom: 250px;
+
+}
+
